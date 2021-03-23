@@ -53,19 +53,19 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Kontorta16" target="_blank">
+<a href="https://github.com/Kontorta16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kontorta/" target="_blank">
+<a href="https://linkedin.com/in/kontorta" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/emircan.dalmn/" target="_blank">
+<a href="https://instagram.com/emircan.dalmn" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://kontorta.medium.com" target="_blank">
+<a href="https://medium.com/kontorta" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/www.youtube.com/c/EmircanDalman" target="_blank">
+<a href="https://www.youtube.com/user/EmircanDalman" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
