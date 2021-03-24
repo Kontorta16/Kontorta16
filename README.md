@@ -7,7 +7,6 @@
   
 
 <br/>  
-<div align="center">
 ## İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
 #
 - .NET
@@ -30,16 +29,13 @@
 - MONGODB
 - GİT
 
-</div>
-
 ## Skill Set
 <table><tr><td valign="top" width="33%">
 
 
 
 </td><td valign="top" width="33%">
-#
-### Frontend & Backend  
+#### Frontend & Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
