@@ -7,8 +7,8 @@
   
 
 <br/>  
-
-## Kullandığım && İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
+<div align="center">
+## İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
 #
 - .NET
 - .NET CORE
@@ -29,6 +29,8 @@
 - MSSQL
 - MONGODB
 - GİT
+
+</div>
 
 ## Skill Set
 <table><tr><td valign="top" width="33%">
