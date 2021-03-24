@@ -8,14 +8,6 @@
 
 <br/>  
 
-
-## Skill Set
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 ## Kullandığım && İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
 #
 - .NET
@@ -37,6 +29,13 @@
 - MSSQL
 - MONGODB
 - GİT
+
+## Skill Set
+<table><tr><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
 #
 ### Frontend & Backend  
 <div align="center">  
