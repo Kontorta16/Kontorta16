@@ -7,7 +7,7 @@
   
 
 <br/>  
-##İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
+## İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
 
 - .NET
 - .NET CORE
