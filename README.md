@@ -8,7 +8,7 @@
 
 <br/>  
 ## İlgilendiğim Framework && Teknolojiler && Programlama Dilleri
-#
+
 - .NET
 - .NET CORE
 - JAVASCRİPT
