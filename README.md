@@ -117,10 +117,6 @@ Medium: https://kontorta.medium.com
 YAZAR
 
 EMİRCAN DALMAN
-
-YAZAR
-
-EMİRCAN DALMAN  
   
 
 <br/>  
