@@ -3,7 +3,7 @@
 </div>  
   
 
-**<div align="center">Merhaba, Ben Emircan. 1 Yıldır .NET ve Web Üzerine Kendimi Geliştiriyorum.</div>**  
+**<div align="center">Merhaba, Ben Emircan. .NET ve Web Üzerine Kendimi Geliştiriyorum.</div>**  
   
 
 <br/>  
