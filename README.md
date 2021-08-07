@@ -101,16 +101,14 @@
 
 Merhabalar!
 
-Ben Emircan. Giresun Eynesil'de yaşıyorum. Kahramanmaraş Sütçü İmam Üniversitesi Bilgisayar Programcılığı bölümünde(3.76 / 4) ortalama ile eğitimime devam ediyorum. Sürekli okul okumaktan daha çok üretken ve girişimci olmayı tercih eden birisiyim. Kendime Yazılım Geliştirici demeyi daha uygun görüyorum ve sürekli kodlar yazmayı inanılmaz zevkli buluyorum. Günde en az 10 saat kod yazıyorum ancak yine de yazdıkça yazasım geliyor, sevdiği işi yapmak dedikleri bu olsa gerek. Kod gördükçe inanılmaz bir aşkla bakıyorum ve her sabah uyandığımda öğreneceklerim için inanılmaz heyecanlanıyorum. Bilgi paylaştıkça güzeldir diye düşündüğümden dolayı Youtube üzerinde ücretsiz kurslar çekiyorum ve bildiklerimi insanlarla paylaşıyorum, paylaştıkça ister istemez bende daha güzel şeyler öğreniyorum. Teknolojiye, kodlara ve Yazılıma hepimizin aşık kalması dileğimle..
+Ben Emircan. Aslen Giresun/Eynesil'liyim. Şuanda Kahramanmaraş'da yaşıyorum. Sürekli okul okumaktan daha çok üretken ve girişimci olmayı tercih eden birisiyim. Kendime Yazılım Geliştirici demeyi daha uygun görüyorum ve sürekli kodlar yazmayı inanılmaz zevkli buluyorum. Günde en az 10 saat kod yazıyorum ancak yine de yazdıkça yazasım geliyor, sevdiği işi yapmak dedikleri bu olsa gerek. Kod gördükçe inanılmaz bir aşkla bakıyorum ve her sabah uyandığımda öğreneceklerim için inanılmaz heyecanlanıyorum. Bilgi paylaştıkça güzeldir diye düşündüğümden dolayı Youtube üzerinde ücretsiz kurslar çekiyorum ve bildiklerimi insanlarla paylaşıyorum, paylaştıkça ister istemez bende daha güzel şeyler öğreniyorum. Teknolojiye, kodlara ve Yazılıma hepimizin aşık kalması dileğimle..
 
 “Hayallerinizin peşinden koşun. Bir gün mutlaka yorulacaklardır.”
 -Paul Auster
 
 Youtube: https://www.youtube.com/c/EmircanDALMAN
 
-Github: https://github.com/Kontorta16
-
-Medium: https://kontorta.medium.com
+Github: https://github.com/EmircanDALMAN
 
 İnstagram: https://www.instagram.com/emircan.dalmn/
 
